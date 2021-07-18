@@ -8,7 +8,9 @@ namespace DesafioAritmeticos
         {
             Console.WriteLine("Hello World!");
 
-            NotasMoedas.mostrarResultado();
+            // NotasMoedas.mostrarResultado();
+
+            TiposDeTriangulo.FormarTriangulo();
         }
     }
 }
