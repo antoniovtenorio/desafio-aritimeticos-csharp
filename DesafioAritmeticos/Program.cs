@@ -10,7 +10,9 @@ namespace DesafioAritmeticos
 
             // NotasMoedas.mostrarResultado();
 
-            TiposDeTriangulo.FormarTriangulo();
+            // TiposDeTriangulo.FormarTriangulo();
+
+            RaizBhaskara.calcularRaiz();
         }
     }
 }
