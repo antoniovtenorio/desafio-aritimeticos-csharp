@@ -1,0 +1,16 @@
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\bin\Debug\net5.0\DesafioAritmeticos.exe
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\bin\Debug\net5.0\DesafioAritmeticos.deps.json
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\bin\Debug\net5.0\DesafioAritmeticos.runtimeconfig.json
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\bin\Debug\net5.0\DesafioAritmeticos.runtimeconfig.dev.json
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\bin\Debug\net5.0\DesafioAritmeticos.dll
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\bin\Debug\net5.0\ref\DesafioAritmeticos.dll
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\bin\Debug\net5.0\DesafioAritmeticos.pdb
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\obj\Debug\net5.0\DesafioAritmeticos.csproj.AssemblyReference.cache
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\obj\Debug\net5.0\DesafioAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\obj\Debug\net5.0\DesafioAritmeticos.AssemblyInfoInputs.cache
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\obj\Debug\net5.0\DesafioAritmeticos.AssemblyInfo.cs
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\obj\Debug\net5.0\DesafioAritmeticos.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\obj\Debug\net5.0\DesafioAritmeticos.dll
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\obj\Debug\net5.0\ref\DesafioAritmeticos.dll
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\obj\Debug\net5.0\DesafioAritmeticos.pdb
+E:\PROGRAMMING\.NET\DIO\My CODES\DesafioAritmeticos\DesafioAritmeticos\obj\Debug\net5.0\DesafioAritmeticos.genruntimeconfig.cache
